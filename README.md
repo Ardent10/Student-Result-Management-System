@@ -1,24 +1,9 @@
 <h2 align="center"><u>Student Result Management System</u></h2>
 
 ![Student result management system in java (JFrame, Netbeans IDE, Mysql Database)](https://2.bp.blogspot.com/-UICquv1dBMU/XGYIXqyhKeI/AAAAAAAAR8M/Evjt3ADUYEYqwDHPLhl_lK5_FTrb_VZpgCLcBGAs/s1600/Java.png)
-<h4 align="center"> Student result management system in java (JFrame, Netbeans IDE, Mysql Database) </h4>
+<h4 align="center"> Student Result Management System using (JFrame, Netbeans IDE, Mysql Database). </h4>
 
-<p align="center">
-    <img src="https://img.shields.io/github/stars/Aditya664/Student_Result_Management_In_Java?style=for-the-badge&color=orange">
-    <img src="https://img.shields.io/github/forks/Aditya664/Student_Result_Management_In_Java?style=for-the-badge&color=purple">
-    <img src="https://img.shields.io/github/license/Aditya664/Student_Result_Management_In_Java?style=for-the-badge&color=blue">
-    <img src="https://img.shields.io/github/issues/Aditya664/Student_Result_Management_In_Java?style=for-the-badge&color=red">
-    <img src="https://img.shields.io/github/contributors/Aditya664/Student_Result_Management_In_Java?style=for-the-badge&color=cyan">
-<br>
-    <img src="https://img.shields.io/badge/Author-Aditya Deshmukh-magenta?style=flat-square">
-    <img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=flat-square">
-    <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
-    <img src="https://img.shields.io/badge/Made%20In-India-green?style=flat-square">
-<br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=Student_Result_Management_In_Java&theme=synthwave">
-</p>
-
-### [+] Description
+### Description
 Student result management system project having two modules:
 
 ### Student module: 
