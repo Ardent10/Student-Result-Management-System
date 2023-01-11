@@ -1,4 +1,4 @@
-<h2 align="center"><u>Student Result Management System</u></h2>
+<h2 align="center"><u>Student Result Management System</h2>
 
 ![Student result management system in java (JFrame, Netbeans IDE, Mysql Database)](https://2.bp.blogspot.com/-UICquv1dBMU/XGYIXqyhKeI/AAAAAAAAR8M/Evjt3ADUYEYqwDHPLhl_lK5_FTrb_VZpgCLcBGAs/s1600/Java.png)
 <h4 align="center"> Student Result Management System using (JFrame, Netbeans IDE, Mysql Database). </h4>
